@@ -1,1 +1,5 @@
 extras/test/build/
+##### Eclipse/Sloeber #####
+.project
+.cproject
+.settings
